@@ -43,7 +43,7 @@ msgid "Address55"
 msgstr ""
 
 #: foo/templates/bar.html:186
-msgid "Address66"
+msgid "Address66666"
 msgstr ""
 
 #: foo/templates/bar.html:187
