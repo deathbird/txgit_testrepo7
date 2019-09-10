@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2019-04-09 11:00+0000\n"
+"PO-Revision-Date: 2019-05-15 11:13+0000\n"
 "Last-Translator: Giannos Dimas <giannosdim@transifex.com>, 2019\n"
 "Language-Team: Greek (https://example.com/journehyman-ltd/teams/1/el/)\n"
 "MIME-Version: 1.0\n"
@@ -34,21 +34,25 @@ msgid "Address2"
 msgstr "Address2"
 
 #: foo/templates/bar.html:183
-msgid "Address3"
-msgstr "Address3hhhhh"
+msgid "Address33"
+msgstr "Address33"
 
 #: foo/templates/bar.html:184
-msgid "Address4"
-msgstr "Address4ggggg"
+msgid "Address44"
+msgstr ""
 
 #: foo/templates/bar.html:185
-msgid "Address5"
+msgid "Address55"
 msgstr ""
 
 #: foo/templates/bar.html:186
-msgid "Address6"
+msgid "Address-----66666"
 msgstr ""
 
 #: foo/templates/bar.html:187
-msgid "Address7"
+msgid "Address77"
+msgstr ""
+
+#: foo/templates/bar.html:188
+msgid "Address88"
 msgstr ""
