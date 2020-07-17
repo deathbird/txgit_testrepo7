@@ -39,7 +39,7 @@ msgstr "Address33"
 
 #: foo/templates/bar.html:184
 msgid "Address44"
-msgstr "Διευθ.... 4"
+msgstr "Διευθ.... 444"
 
 #: foo/templates/bar.html:185
 msgid "Address55"
